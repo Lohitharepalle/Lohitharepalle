@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohitharepalle&label=Profile%20views&color=0e75b6&style=flat" alt="lohitharepalle" /> </p>
 
-- 🔭 I’m currently working on **Earthquake prediction using Gradient Boosting**
-
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, FullStack Web Development**
+- 🌱 I’m a **Web developer and programmer**
+- Strong passion for **Artificial intelligence and Machine Learning**
 
 - 📫 How to reach me **lohitharepalle@gmail.com**
 
