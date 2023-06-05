@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lohitharepalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lohitharepalle" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/lohitharepalle](https://www.linkedin.com/in/lohitha-repalle-900023215/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)" alt="lohitha-repalle-900023215" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/208w1a05b1_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="208w1a05b1_cse" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lohitha_repalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lohitha_repalle" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lohitharepalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lohitharepalle" height="30" width="40" /></a>
