@@ -17,7 +17,7 @@
 <h3 align="left">Coding platforms:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/lohitha_repalle" target="_blank">Leetcode</a><br>
-<a href="https://auth.geeksforgeeks.org/user/lohitharepalle" target="_blank">GeeksForGeeks</a>
+<a href="https://auth.geeksforgeeks.org/user/lohitharepalle" target="_blank">GeeksForGeeks</a><br>
 <a href="https://www.hackerrank.com/208W1A05B1_CSE?hr_r=1" target="_blank">HackerRank</a>
 </p>
 
