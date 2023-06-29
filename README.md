@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/lohitha-repalle-900023215/](https://www.linkedin.com/in/lohitha-repalle-900023215/)" target="blank">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/lohitha-repalle-900023215/" target="blank">LinkedIn</a><br>
 <a href="https://www.leetcode.com/lohitha_repalle" target="blank">Leetcode</a><br>
 <a href="https://auth.geeksforgeeks.org/user/lohitharepalle" target="blank">GeeksForGeeks</a>
 </p>
