@@ -1,8 +1,9 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <h1 align="center">Hi 👋, I'm Lohitha Repalle</h1>
 <h3 align="center">I am a tech enthusiast, looking for a challenging position to leverage my skills
 </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
+          
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohitharepalle&label=Profile%20views&color=0e75b6&style=flat" alt="lohitharepalle" /> </p>
 
 - 🌱 I’m a **Web developer and programmer**
@@ -12,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lohitha-repalle-900023215/" target="_blank">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/lohitha-repalle-900023215/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a><br>
 </p>
 <h3 align="left">Coding platforms:</h3>
 <p align="left">
