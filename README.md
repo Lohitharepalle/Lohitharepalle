@@ -12,11 +12,7 @@
 - 📫 How to reach me **lohitharepalle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lohitha-repalle-900023215/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="75" />
-</a>
-</p>
+<a href="https://www.linkedin.com/in/lohitha-repalle-900023215/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="75" /> </a>
 <h3 align="left">Coding platforms:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/lohitha_repalle" target="_blank">Leetcode</a><br>
