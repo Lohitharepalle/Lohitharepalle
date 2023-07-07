@@ -16,9 +16,9 @@
 
 <h3 align="left">Coding platforms:</h3>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/lohitharepalle" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" width='50' alt="Geeks for Geeks"/></a>
-<a href="https://www.leetcode.com/lohitha_repalle" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width='50'/></a>
-<a href="https://www.hackerrank.com/208W1A05B1_CSE?hr_r=1" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width='50' alt="HackerRank"/></a>
+<a href="https://auth.geeksforgeeks.org/user/lohitharepalle" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" width='50' alt="Geeks for Geeks"/></a><br>
+<a href="https://www.leetcode.com/lohitha_repalle" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width='50'/></a><br>
+<a href="https://www.hackerrank.com/208W1A05B1_CSE?hr_r=1" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width='40' alt="HackerRank"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
