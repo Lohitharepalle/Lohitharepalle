@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lohitha-repalle-900023215/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="55" />
-</a><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="75" />
+</a>
 </p>
 <h3 align="left">Coding platforms:</h3>
 <p align="left">
